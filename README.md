@@ -1,2 +1,2 @@
 # demo-gitflow
-Demo Gitflow
+Neural Network Project
